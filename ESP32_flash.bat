@@ -1,5 +1,5 @@
 @echo off
-title Flash ESP32 - ITV Performance Tester
+title Flash ESP32
 
 REM === Display header ===
 echo ========================================
